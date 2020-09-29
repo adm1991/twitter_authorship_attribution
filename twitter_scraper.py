@@ -77,7 +77,3 @@ def get_all_tweets(screen_name):
 
     pass
 
-
-
-   
-get_all_tweets("kevyboy81")
